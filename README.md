@@ -1,4 +1,4 @@
-# E-Commerce Website
+# Snap-Shop
 
 A Ecommerce Website made with React.js Framework.
 
